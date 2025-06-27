@@ -1,0 +1,9 @@
+<resources>
+    <string name="application_name">Shadowrocket</string>
+    <string name="launch_name">Shadowrocket</string>
+    <string name="application_name_alpha">Shadowrocket</string>
+    <string name="launch_name_alpha">Shadowrocket</string>
+    <string name="application_name_meta">Shadowrocket</string>
+    <string name="launch_name_meta">Shadowrocket</string>
+    <string name="app_icon">Shadowrocket</string>
+</resources>
